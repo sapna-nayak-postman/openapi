@@ -1,9 +1,10 @@
 {
 	"info": {
-		"_postman_id": "8cbc386d-ef94-491a-87aa-f2d38ef55ae2",
+		"_postman_id": "bbc03e52-39a1-441f-9bad-392accc869a2",
 		"name": "Test collection for V10",
+		"description": "Test documentation\n\nOne more line\n\nAnd another",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "7202-8cbc386d-ef94-491a-87aa-f2d38ef55ae2"
+		"_uid": "7202-bbc03e52-39a1-441f-9bad-392accc869a2"
 	},
 	"item": []
 }
